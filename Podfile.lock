@@ -1,0 +1,20 @@
+PODS:
+  - FileExplorer (1.0.4)
+  - SwiftSoup (1.7.1)
+
+DEPENDENCIES:
+  - FileExplorer
+  - SwiftSoup
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FileExplorer
+    - SwiftSoup
+
+SPEC CHECKSUMS:
+  FileExplorer: 1f7fbfa839ac391f0fb57b07eb289daa7c090a31
+  SwiftSoup: 277f7ef548826e0ca7603a06b30d4a5df3ee0587
+
+PODFILE CHECKSUM: d32a75bafa068775952e729a4e01410b88b3fd4e
+
+COCOAPODS: 1.5.2
